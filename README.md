@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Implemented using functional components with hooks
+=======
+# Implemented using Funcational components with hooks
+>>>>>>> 5180c6302424ceb1f070d967e30124a0d55664f8
 
 # Getting Started with Create React App
 
