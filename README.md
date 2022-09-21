@@ -1,4 +1,4 @@
-# Implemented using 'Class Components'
+# Implemented using Funcational components with hooks
 
 # Getting Started with Create React App
 
